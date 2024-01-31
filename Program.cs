@@ -20,6 +20,7 @@
         Console.WriteLine("Du angav ett heltal:" + number); // skriv ut det angivna heltalet när konvertering lyckas
         }
 
+// pushar igen för den förra blev till private
 
 
     }
